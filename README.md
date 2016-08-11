@@ -6,6 +6,6 @@ Dr. Felipe Contreras
 
 Orden de lectura:
 
-1. [Aprendiendo Numpy.ipynb]
+1. `Aprendiendo Numpy.ipynb`
 2. [Aprendiendo Machine Learning con Python3.ipynb]
 3. [Aprendiendo Pandas.ipynb]
