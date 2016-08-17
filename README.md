@@ -5,10 +5,10 @@ NOTA: Puedes descargar el ZIP (BOTÓN VERDE de "clone or download") para bajar t
 
 Este archivo (README.md) está en el formato `markdown`, su sintaxis básica la puedes ver [Aquí!](http://www.markdowntutorial.com)
 
-Dr. Felipe Contreras
-
 Orden de lectura:
 
 1. Aprendiendo Numpy.ipynb
 2. Aprendiendo Machine Learning con Python3.ipynb
 3. Aprendiendo Pandas.ipynb
+
+Dr. Felipe Contreras
