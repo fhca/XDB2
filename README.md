@@ -8,7 +8,7 @@ Este archivo (README.md) está en el formato `markdown`, su sintaxis básica la 
 Orden de lectura:
 
 1. Aprendiendo Numpy.ipynb
-2. Aprendiendo Machine Learning con Python3.ipynb
 3. Aprendiendo Pandas.ipynb
+2. Aprendiendo Machine Learning con Python3.ipynb
 
 Dr. Felipe Contreras
