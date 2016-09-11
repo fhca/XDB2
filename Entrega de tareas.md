@@ -1,5 +1,5 @@
 # Entrega de tareas
-Las próximas tareas a entregar deben cumplir con estas caracerísticas para poder ser calificadas:
+Las próximas tareas a entregar deben cumplir con estas características para poder ser calificadas:
 
 1. *Deben* entregarse *antes* de la fecha y hora límite a mi correo electrónico: Felipe.Contreras[arroba]uacm.edu.mx
 2. El encabezado *debe* incluir la palabra TAREA con mayúsculas y la abreviatura para el curso "XDB2" o "ProgWeb", respectivamente
