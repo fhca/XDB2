@@ -2,7 +2,7 @@
 
 [21 de sep]
 
-[repaso series y dataframes.ipynb](repaso series y dataframes.ipynb) contiene el archivo de las pruebas que estuvimos haciendo ayer.
+[repaso series y dataframes.ipynb](repaso series y dataframes.ipynb) contiene el archivo de las pruebas que estuvimos haciendo ayer. Tu tarea es ponerle comentarios y mandármelo.
 
 [3 de septiembre]
 
