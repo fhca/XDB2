@@ -1,5 +1,9 @@
 # Especialidad de Base de Datos 2 - UACM - 2016
 
+[21 de sep]
+
+[repaso series y dataframes.ipynb](repaso series y dataframes.ipynb) contiene el archivo de las pruebas que estuvimos haciendo ayer.
+
 [3 de septiembre]
 
 Agregué un par de libros:
